@@ -1,3 +1,6 @@
+_This GitHub repository contains my learning journey as I participate in the Data Engineering Zoomcamp 2024._
+
+
 # Data Engineering Zoomcamp
 
 
